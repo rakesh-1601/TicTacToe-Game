@@ -1,6 +1,4 @@
 #Hello there!!!....myself Rakesh pandey
-#Student at NIT jalndhar(First year -CSE branch)
-#And this is minor project!!!!
 #Building a TicTacToe game!!!
 
 import os
